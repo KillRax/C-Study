@@ -1,0 +1,7 @@
+D:\GitHub\C#Study\SkillBox\Modul_1\ConsoleTask1\bin\Debug\ConsoleTask1.exe.config
+D:\GitHub\C#Study\SkillBox\Modul_1\ConsoleTask1\bin\Debug\ConsoleTask1.exe
+D:\GitHub\C#Study\SkillBox\Modul_1\ConsoleTask1\bin\Debug\ConsoleTask1.pdb
+D:\GitHub\C#Study\SkillBox\Modul_1\ConsoleTask1\obj\Debug\ConsoleTask1.csproj.AssemblyReference.cache
+D:\GitHub\C#Study\SkillBox\Modul_1\ConsoleTask1\obj\Debug\ConsoleTask1.csproj.CoreCompileInputs.cache
+D:\GitHub\C#Study\SkillBox\Modul_1\ConsoleTask1\obj\Debug\ConsoleTask1.exe
+D:\GitHub\C#Study\SkillBox\Modul_1\ConsoleTask1\obj\Debug\ConsoleTask1.pdb
