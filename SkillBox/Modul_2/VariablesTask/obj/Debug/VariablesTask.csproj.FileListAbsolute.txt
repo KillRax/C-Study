@@ -1,0 +1,7 @@
+D:\GitHub\C#Study\SkillBox\Modul_2\VariablesTask\bin\Debug\VariablesTask.exe.config
+D:\GitHub\C#Study\SkillBox\Modul_2\VariablesTask\bin\Debug\VariablesTask.exe
+D:\GitHub\C#Study\SkillBox\Modul_2\VariablesTask\bin\Debug\VariablesTask.pdb
+D:\GitHub\C#Study\SkillBox\Modul_2\VariablesTask\obj\Debug\VariablesTask.csproj.AssemblyReference.cache
+D:\GitHub\C#Study\SkillBox\Modul_2\VariablesTask\obj\Debug\VariablesTask.csproj.CoreCompileInputs.cache
+D:\GitHub\C#Study\SkillBox\Modul_2\VariablesTask\obj\Debug\VariablesTask.exe
+D:\GitHub\C#Study\SkillBox\Modul_2\VariablesTask\obj\Debug\VariablesTask.pdb
