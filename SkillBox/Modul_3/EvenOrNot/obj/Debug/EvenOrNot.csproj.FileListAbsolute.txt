@@ -1,0 +1,7 @@
+D:\GitHub\C-Study\SkillBox\Modul_3\EvenOrNot\bin\Debug\EvenOrNot.exe.config
+D:\GitHub\C-Study\SkillBox\Modul_3\EvenOrNot\bin\Debug\EvenOrNot.exe
+D:\GitHub\C-Study\SkillBox\Modul_3\EvenOrNot\bin\Debug\EvenOrNot.pdb
+D:\GitHub\C-Study\SkillBox\Modul_3\EvenOrNot\obj\Debug\EvenOrNot.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\SkillBox\Modul_3\EvenOrNot\obj\Debug\EvenOrNot.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Study\SkillBox\Modul_3\EvenOrNot\obj\Debug\EvenOrNot.exe
+D:\GitHub\C-Study\SkillBox\Modul_3\EvenOrNot\obj\Debug\EvenOrNot.pdb

@@ -1,0 +1,7 @@
+D:\GitHub\C-Study\SkillBox\Modul_3\Game_21\bin\Debug\Game_21.exe.config
+D:\GitHub\C-Study\SkillBox\Modul_3\Game_21\bin\Debug\Game_21.exe
+D:\GitHub\C-Study\SkillBox\Modul_3\Game_21\bin\Debug\Game_21.pdb
+D:\GitHub\C-Study\SkillBox\Modul_3\Game_21\obj\Debug\Game_21.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\SkillBox\Modul_3\Game_21\obj\Debug\Game_21.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Study\SkillBox\Modul_3\Game_21\obj\Debug\Game_21.exe
+D:\GitHub\C-Study\SkillBox\Modul_3\Game_21\obj\Debug\Game_21.pdb

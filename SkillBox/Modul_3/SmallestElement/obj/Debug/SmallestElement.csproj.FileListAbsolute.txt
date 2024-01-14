@@ -1,0 +1,7 @@
+D:\GitHub\C-Study\SkillBox\Modul_3\SmallestElement\bin\Debug\SmallestElement.exe.config
+D:\GitHub\C-Study\SkillBox\Modul_3\SmallestElement\bin\Debug\SmallestElement.exe
+D:\GitHub\C-Study\SkillBox\Modul_3\SmallestElement\bin\Debug\SmallestElement.pdb
+D:\GitHub\C-Study\SkillBox\Modul_3\SmallestElement\obj\Debug\SmallestElement.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\SkillBox\Modul_3\SmallestElement\obj\Debug\SmallestElement.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Study\SkillBox\Modul_3\SmallestElement\obj\Debug\SmallestElement.exe
+D:\GitHub\C-Study\SkillBox\Modul_3\SmallestElement\obj\Debug\SmallestElement.pdb

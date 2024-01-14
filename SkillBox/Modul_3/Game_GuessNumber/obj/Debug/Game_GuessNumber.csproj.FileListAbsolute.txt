@@ -1,0 +1,7 @@
+D:\GitHub\C-Study\SkillBox\Modul_3\Game_GuessNumber\bin\Debug\Game_GuessNumber.exe.config
+D:\GitHub\C-Study\SkillBox\Modul_3\Game_GuessNumber\bin\Debug\Game_GuessNumber.exe
+D:\GitHub\C-Study\SkillBox\Modul_3\Game_GuessNumber\bin\Debug\Game_GuessNumber.pdb
+D:\GitHub\C-Study\SkillBox\Modul_3\Game_GuessNumber\obj\Debug\Game_GuessNumber.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\SkillBox\Modul_3\Game_GuessNumber\obj\Debug\Game_GuessNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Study\SkillBox\Modul_3\Game_GuessNumber\obj\Debug\Game_GuessNumber.exe
+D:\GitHub\C-Study\SkillBox\Modul_3\Game_GuessNumber\obj\Debug\Game_GuessNumber.pdb

@@ -1,0 +1,7 @@
+D:\GitHub\C-Study\SkillBox\Modul_3\IsPrime\bin\Debug\IsPrime.exe.config
+D:\GitHub\C-Study\SkillBox\Modul_3\IsPrime\bin\Debug\IsPrime.exe
+D:\GitHub\C-Study\SkillBox\Modul_3\IsPrime\bin\Debug\IsPrime.pdb
+D:\GitHub\C-Study\SkillBox\Modul_3\IsPrime\obj\Debug\IsPrime.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\SkillBox\Modul_3\IsPrime\obj\Debug\IsPrime.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Study\SkillBox\Modul_3\IsPrime\obj\Debug\IsPrime.exe
+D:\GitHub\C-Study\SkillBox\Modul_3\IsPrime\obj\Debug\IsPrime.pdb
