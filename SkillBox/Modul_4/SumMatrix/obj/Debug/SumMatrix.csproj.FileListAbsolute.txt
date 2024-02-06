@@ -1,0 +1,7 @@
+D:\GitHub\C-Study\SkillBox\Modul_4\SumMatrix\bin\Debug\SumMatrix.exe.config
+D:\GitHub\C-Study\SkillBox\Modul_4\SumMatrix\bin\Debug\SumMatrix.exe
+D:\GitHub\C-Study\SkillBox\Modul_4\SumMatrix\bin\Debug\SumMatrix.pdb
+D:\GitHub\C-Study\SkillBox\Modul_4\SumMatrix\obj\Debug\SumMatrix.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\SkillBox\Modul_4\SumMatrix\obj\Debug\SumMatrix.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Study\SkillBox\Modul_4\SumMatrix\obj\Debug\SumMatrix.exe
+D:\GitHub\C-Study\SkillBox\Modul_4\SumMatrix\obj\Debug\SumMatrix.pdb

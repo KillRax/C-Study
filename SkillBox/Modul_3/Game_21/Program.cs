@@ -13,7 +13,8 @@ namespace Game_21
             Console.WriteLine("Введите количество карт!");
             int amountCard = Convert.ToInt32(Console.ReadLine());
             int sumValue = 0;
-            for (int i = 0; i < amountCard; i++)
+            int i = 0;
+            while (i < amountCard)
             {
                 Console.WriteLine("Введите карту!");
                 string card = Console.ReadLine();
@@ -24,10 +25,22 @@ namespace Game_21
                     case "Q":
                     case "T":
                         sumValue += 10;
+                        i++;
                         break;
-
-                    default:
+                    case "2":
+                    case "3":
+                    case "4":
+                    case "5":
+                    case "6":
+                    case "7":
+                    case "8":
+                    case "9":
+                    case "10":
                         sumValue += Convert.ToInt32(card);
+                        i++;
+                        break;
+                    default:
+                        Console.WriteLine("Введено неверное значение! Порпробуйте снова!");
                         break;
                 }
             }

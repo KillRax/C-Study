@@ -1,0 +1,7 @@
+D:\GitHub\C-Study\SkillBox\Modul_4\RandomMatrix\bin\Debug\RandomMatrix.exe.config
+D:\GitHub\C-Study\SkillBox\Modul_4\RandomMatrix\bin\Debug\RandomMatrix.exe
+D:\GitHub\C-Study\SkillBox\Modul_4\RandomMatrix\bin\Debug\RandomMatrix.pdb
+D:\GitHub\C-Study\SkillBox\Modul_4\RandomMatrix\obj\Debug\RandomMatrix.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\SkillBox\Modul_4\RandomMatrix\obj\Debug\RandomMatrix.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Study\SkillBox\Modul_4\RandomMatrix\obj\Debug\RandomMatrix.exe
+D:\GitHub\C-Study\SkillBox\Modul_4\RandomMatrix\obj\Debug\RandomMatrix.pdb

@@ -15,11 +15,12 @@ namespace Game_GuessNumber
             Random random = new Random();
             int mysteryNumber = random.Next(0, maxRange);
 
-            Console.WriteLine("Угадайте число!");
-            int number = Convert.ToInt32(Console.ReadLine());
-            while (true)
+            Console.WriteLine("Введите число чтобы угадайте число!\nЧтобы прекратить введите что угодно кроме числа!");
+            bool result = int.TryParse(Console.ReadLine(), out var symbol);
+            while (result)
             {
-                if (mysteryNumber < number) 
+                int number = symbol;
+                if (mysteryNumber < number)
                 {
                     Console.WriteLine("Загаданное число меньше!");
                 }
@@ -33,8 +34,9 @@ namespace Game_GuessNumber
                     break;
                 }
                 Console.WriteLine("Попробуйте еще раз!");
-                number = Convert.ToInt32(Console.ReadLine());
+                result = int.TryParse(Console.ReadLine(), out symbol);
             }
+            Console.WriteLine("Игра окончена!");
             Console.ReadLine();
         }
     }
