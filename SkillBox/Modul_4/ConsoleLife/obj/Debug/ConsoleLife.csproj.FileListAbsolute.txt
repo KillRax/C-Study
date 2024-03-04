@@ -1,0 +1,7 @@
+D:\GitHub\C-Study\SkillBox\Modul_4\ConsoleLife\bin\Debug\ConsoleLife.exe.config
+D:\GitHub\C-Study\SkillBox\Modul_4\ConsoleLife\bin\Debug\ConsoleLife.exe
+D:\GitHub\C-Study\SkillBox\Modul_4\ConsoleLife\bin\Debug\ConsoleLife.pdb
+D:\GitHub\C-Study\SkillBox\Modul_4\ConsoleLife\obj\Debug\ConsoleLife.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\SkillBox\Modul_4\ConsoleLife\obj\Debug\ConsoleLife.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Study\SkillBox\Modul_4\ConsoleLife\obj\Debug\ConsoleLife.exe
+D:\GitHub\C-Study\SkillBox\Modul_4\ConsoleLife\obj\Debug\ConsoleLife.pdb
