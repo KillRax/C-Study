@@ -1,0 +1,7 @@
+D:\GitHub\C-Study\SkillBox\Modul_5\WorkWithText\bin\Debug\WorkWithText.exe.config
+D:\GitHub\C-Study\SkillBox\Modul_5\WorkWithText\bin\Debug\WorkWithText.exe
+D:\GitHub\C-Study\SkillBox\Modul_5\WorkWithText\bin\Debug\WorkWithText.pdb
+D:\GitHub\C-Study\SkillBox\Modul_5\WorkWithText\obj\Debug\WorkWithText.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\SkillBox\Modul_5\WorkWithText\obj\Debug\WorkWithText.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Study\SkillBox\Modul_5\WorkWithText\obj\Debug\WorkWithText.exe
+D:\GitHub\C-Study\SkillBox\Modul_5\WorkWithText\obj\Debug\WorkWithText.pdb
