@@ -1,0 +1,7 @@
+D:\GitHub\C-Study\SkillBox\Modul_6\Employees\bin\Debug\Employees.exe.config
+D:\GitHub\C-Study\SkillBox\Modul_6\Employees\bin\Debug\Employees.exe
+D:\GitHub\C-Study\SkillBox\Modul_6\Employees\bin\Debug\Employees.pdb
+D:\GitHub\C-Study\SkillBox\Modul_6\Employees\obj\Debug\Employees.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\SkillBox\Modul_6\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Study\SkillBox\Modul_6\Employees\obj\Debug\Employees.exe
+D:\GitHub\C-Study\SkillBox\Modul_6\Employees\obj\Debug\Employees.pdb
