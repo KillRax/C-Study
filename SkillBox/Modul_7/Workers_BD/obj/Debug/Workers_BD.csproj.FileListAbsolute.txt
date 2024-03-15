@@ -1,0 +1,7 @@
+D:\GitHub\C-Study\SkillBox\Modul_7\Workers_BD\bin\Debug\Workers_BD.exe.config
+D:\GitHub\C-Study\SkillBox\Modul_7\Workers_BD\bin\Debug\Workers_BD.exe
+D:\GitHub\C-Study\SkillBox\Modul_7\Workers_BD\bin\Debug\Workers_BD.pdb
+D:\GitHub\C-Study\SkillBox\Modul_7\Workers_BD\obj\Debug\Workers_BD.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\SkillBox\Modul_7\Workers_BD\obj\Debug\Workers_BD.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Study\SkillBox\Modul_7\Workers_BD\obj\Debug\Workers_BD.exe
+D:\GitHub\C-Study\SkillBox\Modul_7\Workers_BD\obj\Debug\Workers_BD.pdb
