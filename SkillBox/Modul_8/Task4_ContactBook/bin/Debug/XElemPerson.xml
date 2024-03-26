@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person Name="Иванов Иван Иванович">
+  <Address>
+    <Street>Ленина</Street>
+    <HouseNumber>1</HouseNumber>
+    <FlatNumber>20</FlatNumber>
+  </Address>
+  <Phones>
+    <MobilePhone>89234567890</MobilePhone>
+    <FlatPhone>123-45-67</FlatPhone>
+  </Phones>
+</Person>

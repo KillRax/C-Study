@@ -1,0 +1,7 @@
+D:\GitHub\C-Study\SkillBox\Modul_8\Task4_ContactBook\bin\Debug\Task4_ContactBook.exe.config
+D:\GitHub\C-Study\SkillBox\Modul_8\Task4_ContactBook\bin\Debug\Task4_ContactBook.exe
+D:\GitHub\C-Study\SkillBox\Modul_8\Task4_ContactBook\bin\Debug\Task4_ContactBook.pdb
+D:\GitHub\C-Study\SkillBox\Modul_8\Task4_ContactBook\obj\Debug\Task4_ContactBook.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\SkillBox\Modul_8\Task4_ContactBook\obj\Debug\Task4_ContactBook.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Study\SkillBox\Modul_8\Task4_ContactBook\obj\Debug\Task4_ContactBook.exe
+D:\GitHub\C-Study\SkillBox\Modul_8\Task4_ContactBook\obj\Debug\Task4_ContactBook.pdb

@@ -1,0 +1,7 @@
+D:\GitHub\C-Study\SkillBox\Modul_8\Task2_PhoneBook\bin\Debug\Task2_PhoneBook.exe.config
+D:\GitHub\C-Study\SkillBox\Modul_8\Task2_PhoneBook\bin\Debug\Task2_PhoneBook.exe
+D:\GitHub\C-Study\SkillBox\Modul_8\Task2_PhoneBook\bin\Debug\Task2_PhoneBook.pdb
+D:\GitHub\C-Study\SkillBox\Modul_8\Task2_PhoneBook\obj\Debug\Task2_PhoneBook.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\SkillBox\Modul_8\Task2_PhoneBook\obj\Debug\Task2_PhoneBook.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Study\SkillBox\Modul_8\Task2_PhoneBook\obj\Debug\Task2_PhoneBook.exe
+D:\GitHub\C-Study\SkillBox\Modul_8\Task2_PhoneBook\obj\Debug\Task2_PhoneBook.pdb

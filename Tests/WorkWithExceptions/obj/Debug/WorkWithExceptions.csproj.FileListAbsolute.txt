@@ -1,0 +1,7 @@
+D:\GitHub\C-Study\Tests\WorkWithExceptions\bin\Debug\WorkWithExceptions.exe.config
+D:\GitHub\C-Study\Tests\WorkWithExceptions\bin\Debug\WorkWithExceptions.exe
+D:\GitHub\C-Study\Tests\WorkWithExceptions\bin\Debug\WorkWithExceptions.pdb
+D:\GitHub\C-Study\Tests\WorkWithExceptions\obj\Debug\WorkWithExceptions.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\Tests\WorkWithExceptions\obj\Debug\WorkWithExceptions.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Study\Tests\WorkWithExceptions\obj\Debug\WorkWithExceptions.exe
+D:\GitHub\C-Study\Tests\WorkWithExceptions\obj\Debug\WorkWithExceptions.pdb

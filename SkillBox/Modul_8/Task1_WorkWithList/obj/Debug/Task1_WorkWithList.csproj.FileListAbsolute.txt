@@ -1,0 +1,7 @@
+D:\GitHub\C-Study\SkillBox\Modul_8\Task1_WorkWithList\bin\Debug\Task1_WorkWithList.exe.config
+D:\GitHub\C-Study\SkillBox\Modul_8\Task1_WorkWithList\bin\Debug\Task1_WorkWithList.exe
+D:\GitHub\C-Study\SkillBox\Modul_8\Task1_WorkWithList\bin\Debug\Task1_WorkWithList.pdb
+D:\GitHub\C-Study\SkillBox\Modul_8\Task1_WorkWithList\obj\Debug\Task1_WorkWithList.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\SkillBox\Modul_8\Task1_WorkWithList\obj\Debug\Task1_WorkWithList.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Study\SkillBox\Modul_8\Task1_WorkWithList\obj\Debug\Task1_WorkWithList.exe
+D:\GitHub\C-Study\SkillBox\Modul_8\Task1_WorkWithList\obj\Debug\Task1_WorkWithList.pdb

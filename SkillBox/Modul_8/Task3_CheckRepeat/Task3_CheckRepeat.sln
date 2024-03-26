@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3_CheckRepeat", "Task3_CheckRepeat.csproj", "{85351E55-774B-4255-84E7-97DC5F2C892E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85351E55-774B-4255-84E7-97DC5F2C892E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85351E55-774B-4255-84E7-97DC5F2C892E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85351E55-774B-4255-84E7-97DC5F2C892E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85351E55-774B-4255-84E7-97DC5F2C892E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {127D3D4B-6313-4225-A010-2B654D0FD712}
+	EndGlobalSection
+EndGlobal
