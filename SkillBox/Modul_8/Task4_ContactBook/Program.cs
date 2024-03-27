@@ -42,11 +42,11 @@ namespace Task4_ContactBook
             }
 
             //Через XmlSerializer
-            //XmlSerializer serializer = new XmlSerializer(typeof(ClsPerson));
-            //using (StreamWriter writer = new StreamWriter("XmlSerPerson.xml"))
-            //{
-            //    serializer.Serialize(writer, person);
-            //}
+            XmlSerializer serializer = new XmlSerializer(typeof(ClsPerson));
+            using (StreamWriter writer = new StreamWriter("XmlSerPerson.xml"))
+            {
+                serializer.Serialize(writer, person);
+            }
 
             //Через XElement
             XElement personXml = new XElement("Person",
@@ -65,87 +65,89 @@ namespace Task4_ContactBook
             personXml.Save("XElemPerson.xml");
         }
 
-        public class ClsPerson
+    }
+
+    public class ClsPerson
+    {
+        [XmlAttribute("Name")]
+        public string Name { get; set; }
+        public ClsAddress Address { get; set; }
+
+        public ClsPhones Phones { get; set; }
+
+        public ClsPerson()
         {
-            //[XmlAttribute("Name")]
-            public string Name { get; private set; }
-            public ClsAddress Address { get; private set; }
 
-            public ClsPhones Phones { get; private set; }
-
-            public ClsPerson()
-            {
-
-            }
-
-            public ClsPerson(string name, string street, string houseNumber, string flatNumber, string mobilePhone, string flatPhone)
-            {
-                Address = new ClsAddress(street, houseNumber, flatNumber);
-                Phones = new ClsPhones(mobilePhone, flatPhone);
-                Name = name;
-            }
         }
 
-        public class ClsAddress
-        { 
-            public string Street { get; private set; }
-            public int HouseNumber { get; private set; }
-            public int FlatNumber { get; private set; }
-
-            public ClsAddress()
-            {
-
-            }
-
-            public ClsAddress(string street, string houseNumber, string flatNumber)
-            {
-                if (!IsValidNumbers(houseNumber, flatNumber))
-                {
-                    throw new ArgumentException("Номера дома и квартиры должны быть числом!");
-                }
-                Street = street;
-                HouseNumber = Convert.ToInt32(houseNumber);
-                FlatNumber = Convert.ToInt32(flatNumber);
-            }
-
-            public bool IsValidNumbers(string strHouseNumber, string strFlatNumber)
-            {
-                int houseNumber;
-                int flatNumber;
-                return int.TryParse(strHouseNumber, out houseNumber) && int.TryParse(strFlatNumber, out flatNumber);
-            }
-        }
-
-        public class ClsPhones
+        public ClsPerson(string name, string street, string houseNumber, string flatNumber, string mobilePhone, string flatPhone)
         {
-            public string MobilePhone { get; private set; }
-            public string FlatPhone { get; private set; }
-
-            public ClsPhones()
-            {
-
-            }
-
-            public ClsPhones(string mobilePhone, string flatPhone)
-            {
-                if (!IsValidPhoneNumber(mobilePhone, flatPhone))
-                {
-                    throw new ArgumentException("Введенные номера не соответстуют формату ввода!");
-                }
-                MobilePhone = mobilePhone;
-                FlatPhone = flatPhone;
-            }
-
-            public bool IsValidPhoneNumber(string mobilePhone, string flatPhone)
-            {
-                string mobilePattern = @"^8\d{10}$";
-                string flatPattern = @"^\d{3}-\d{2}-\d{2}$";
-                Regex regexMobile = new Regex(mobilePattern);
-                Regex regexFlat = new Regex(flatPattern);
-
-                return regexMobile.IsMatch(mobilePhone) && regexFlat.IsMatch(flatPhone);
-            }
-
+            Address = new ClsAddress(street, houseNumber, flatNumber);
+            Phones = new ClsPhones(mobilePhone, flatPhone);
+            Name = name;
         }
     }
+
+    public class ClsAddress
+    {
+        public string Street { get; set; }
+        public int HouseNumber { get; set; }
+        public int FlatNumber { get; set; }
+
+        public ClsAddress()
+        {
+
+        }
+
+        public ClsAddress(string street, string houseNumber, string flatNumber)
+        {
+            if (!IsValidNumbers(houseNumber, flatNumber))
+            {
+                throw new ArgumentException("Номера дома и квартиры должны быть числом!");
+            }
+            Street = street;
+            HouseNumber = Convert.ToInt32(houseNumber);
+            FlatNumber = Convert.ToInt32(flatNumber);
+        }
+
+        public bool IsValidNumbers(string strHouseNumber, string strFlatNumber)
+        {
+            int houseNumber;
+            int flatNumber;
+            return int.TryParse(strHouseNumber, out houseNumber) && int.TryParse(strFlatNumber, out flatNumber);
+        }
+    }
+
+    public class ClsPhones
+    {
+        public string MobilePhone { get; set; }
+        public string FlatPhone { get; set; }
+
+        public ClsPhones()
+        {
+
+        }
+
+        public ClsPhones(string mobilePhone, string flatPhone)
+        {
+            if (!IsValidPhoneNumber(mobilePhone, flatPhone))
+            {
+                throw new ArgumentException("Введенные номера не соответстуют формату ввода!");
+            }
+            MobilePhone = mobilePhone;
+            FlatPhone = flatPhone;
+        }
+
+        public bool IsValidPhoneNumber(string mobilePhone, string flatPhone)
+        {
+            string mobilePattern = @"^8\d{10}$";
+            string flatPattern = @"^\d{3}-\d{2}-\d{2}$";
+            Regex regexMobile = new Regex(mobilePattern);
+            Regex regexFlat = new Regex(flatPattern);
+
+            return regexMobile.IsMatch(mobilePhone) && regexFlat.IsMatch(flatPhone);
+        }
+
+    }
+
 }

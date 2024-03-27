@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Person Name="Шерлок Холмс">
+<?xml version="1.0" encoding="utf-8"?>
+<ClsPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Шерлок Холмс">
   <Address>
     <Street>Бэйкер</Street>
     <HouseNumber>221</HouseNumber>
@@ -9,4 +9,4 @@
     <MobilePhone>89145676480</MobilePhone>
     <FlatPhone>473-58-92</FlatPhone>
   </Phones>
-</Person>
+</ClsPerson>
