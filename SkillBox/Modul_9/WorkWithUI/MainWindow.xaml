@@ -1,0 +1,67 @@
+﻿<Window x:Class="WorkWithUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WorkWithUI"
+        mc:Ignorable="d"
+        Title="Cплитер текста" Height="450" Width="800">
+
+    <Grid Background="#FFECECEC">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="listBoxWords"
+                 Grid.Column="2"
+                 Margin="5,5"/>
+        <TextBox x:Name="inputTextBox"
+                 Grid.Column="1"
+                 HorizontalAlignment="Left"
+                 VerticalAlignment="Top"
+                 Margin="5,50,0,0"
+                 TextWrapping="Wrap"
+                 Width="450"
+                 Height="90"/>
+        <TextBlock x:Name="textBlock"
+                   Grid.Column="1"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Top"
+                   Margin="5,30,0,0"
+                   TextWrapping="Wrap"
+                   Text="Введите сюда ваш текст"/>
+        <Button x:Name="splitButton"
+                Grid.Column="1"
+                Content="Разделить"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Margin="100,185,0,0"
+                Height="50" Width="100" Click="splitButton_Click"
+                />
+        <Button x:Name="reversebutton"
+                Grid.Column="1"
+                Content="Перевернуть"
+                HorizontalAlignment="Left"
+                Margin="280,185,0,0"
+                VerticalAlignment="Top"
+                Height="50" Width="100" Click="reverseButton_Click"
+                />
+        <TextBlock x:Name="outputTextBlock"
+            Grid.Column="1"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Margin="5,280,0,0"
+            TextWrapping="Wrap"
+            Width="450"
+            Height="90"
+            Background="White"/>
+        <TextBlock x:Name="textBlockOut"
+            Grid.Column="1"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Margin="5,260,0,0"
+            TextWrapping="Wrap"
+            Text="Здесь появится результат"/>
+    </Grid>
+</Window>

@@ -2,6 +2,12 @@ D:\GitHub\C-Study\SkillBox\Modul_9\WorkWithUI\bin\Debug\WorkWithUI.exe.config
 D:\GitHub\C-Study\SkillBox\Modul_9\WorkWithUI\bin\Debug\WorkWithUI.exe
 D:\GitHub\C-Study\SkillBox\Modul_9\WorkWithUI\bin\Debug\WorkWithUI.pdb
 D:\GitHub\C-Study\SkillBox\Modul_9\WorkWithUI\obj\Debug\WorkWithUI.csproj.AssemblyReference.cache
+D:\GitHub\C-Study\SkillBox\Modul_9\WorkWithUI\obj\Debug\MainWindow.g.cs
+D:\GitHub\C-Study\SkillBox\Modul_9\WorkWithUI\obj\Debug\App.g.cs
+D:\GitHub\C-Study\SkillBox\Modul_9\WorkWithUI\obj\Debug\WorkWithUI_MarkupCompile.cache
+D:\GitHub\C-Study\SkillBox\Modul_9\WorkWithUI\obj\Debug\WorkWithUI_MarkupCompile.lref
+D:\GitHub\C-Study\SkillBox\Modul_9\WorkWithUI\obj\Debug\MainWindow.baml
+D:\GitHub\C-Study\SkillBox\Modul_9\WorkWithUI\obj\Debug\WorkWithUI.g.resources
 D:\GitHub\C-Study\SkillBox\Modul_9\WorkWithUI\obj\Debug\WorkWithUI.Properties.Resources.resources
 D:\GitHub\C-Study\SkillBox\Modul_9\WorkWithUI\obj\Debug\WorkWithUI.csproj.GenerateResource.cache
 D:\GitHub\C-Study\SkillBox\Modul_9\WorkWithUI\obj\Debug\WorkWithUI.csproj.CoreCompileInputs.cache
